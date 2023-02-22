@@ -23,5 +23,9 @@ This function requires the following Python libraries to be installed:
 # Output
 The output of the `image_index_cal` function is a CSV file named "Image_quality_table.csv" that contains the file names and quality index values for all images in the given directory.
 
+## References
+
+- [A new quality assessment parameter for optical coherence tomography](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4361859/)
+
 # License
 This function is released under the [MIT License](https://opensource.org/licenses/MIT).
