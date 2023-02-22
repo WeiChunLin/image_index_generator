@@ -24,4 +24,4 @@ This function requires the following Python libraries to be installed:
 The output of the `image_index_cal` function is a CSV file named "Image_quality_table.csv" that contains the file names and quality index values for all images in the given directory.
 
 # License
-This function is released under the MIT License.
+This function is released under the [MIT License](https://opensource.org/licenses/MIT).
