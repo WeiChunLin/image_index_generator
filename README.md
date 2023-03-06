@@ -25,7 +25,7 @@ The output of the `image_index_cal` function is a CSV file named "Image_quality_
 
 ## References
 
-- [A new quality assessment parameter for optical coherence tomography](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4361859/)
+- [A new quality assessment parameter for optical coherence tomography](https://pubmed.ncbi.nlm.nih.gov/16424531/)
 
 # License
 This function is released under the [MIT License](https://opensource.org/licenses/MIT).
